@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1490_237" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<path d="M99 99V1H1V99H99Z" fill="white" stroke="white" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0_1490_237)">
+<path d="M29.4924 44.4668L6.0332 42.2125L24.9586 23.2869C31.19 17.0555 40.6182 15.8883 48.0471 19.7855" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M55.5869 70.8984L57.8055 93.9854L76.7313 75.0598C83.1883 68.6025 84.2076 58.7127 79.7889 51.1719" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M79.4467 50.9768C78.0353 52.6098 76.5441 54.2149 74.9748 55.7842C67.0808 63.6781 58.2793 69.5961 49.5896 73.3096C47.0451 74.3971 44.2463 73.8565 42.2896 71.8996L28.0824 57.6926C26.1256 55.736 25.5851 52.9371 26.6726 50.3924C30.3861 41.7028 36.3039 32.9014 44.1978 25.0072C60.7594 8.44572 81.315 0.576582 96.4539 3.52814C99.126 17.2324 92.9305 35.3758 79.4467 50.9768Z" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71.6086 6.74551L92.5292 27.666" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.6404 43.4811L56.6087 67.4492" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69.2839 30.6977C71.8755 33.2893 71.8755 37.491 69.2839 40.0824C66.6923 42.674 62.4907 42.674 59.8991 40.0824C57.3077 37.491 57.3077 33.2893 59.8991 30.6977C62.4907 28.1061 66.6923 28.1061 69.2839 30.6977Z" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.5554 73.4627L2.93701 97.0811" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.1705 64.0782L9.19336 72.0552" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.9403 82.8475L27.9634 90.8245" stroke="#FF5C00" stroke-width="2" stroke-miterlimit="22.926" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
